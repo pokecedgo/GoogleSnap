@@ -6,9 +6,14 @@ A personal side project I did revolving the use of the Apple Map API (I know, co
 
 
 
+**Video Demo:**
+
+https://github.com/user-attachments/assets/b2781ce0-0f0f-4383-8e5e-b89f05a9cc3c
 
 
 
+
+**App Snapshots**
 
 ![IMG_6276](https://github.com/user-attachments/assets/afc95c51-4681-4897-9044-fd10fc809fb9)
 
